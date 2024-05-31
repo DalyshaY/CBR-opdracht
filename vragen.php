@@ -18,6 +18,10 @@
     <div id="questions-container"></div>
     <button id="next-button">Next</button>
 
+    <div id="timer">Time: 00:00</div>
+    <button id="startQuiz">Start Quiz</button>
+    <button id="endQuiz" disabled>End Quiz</button>
+    <script src="timer.js"></script>
 
 
     <script src="script.js"></script>

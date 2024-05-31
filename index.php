@@ -14,7 +14,7 @@
 
     <main>
         <div class="content-left">
-            <h1>CBR Quiz</h1>
+            <h1>CBR Theorie Examen</h1>
             <h2>Begin hier met leren!</h2>
             <a href="vragen.php"><button type="button" class="start-button">Start</button></a>
         </div>
@@ -25,6 +25,7 @@
     </main>
   
     </div>
+
 </body>
 
 <?php include "footer.php"?>
